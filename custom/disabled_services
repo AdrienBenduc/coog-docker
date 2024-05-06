@@ -1,0 +1,12 @@
+b2c/back
+b2c/front
+b2c/front_init
+b2c/back_init
+api/api_b2c
+api/api_v1
+api/b2b-config
+api/referential
+database/redis
+database/postgres
+front/app-b2c
+front/portal
