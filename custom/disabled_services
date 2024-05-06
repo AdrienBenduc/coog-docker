@@ -10,3 +10,7 @@ database/redis
 database/postgres
 front/app-b2c
 front/portal
+back/coog_init
+back/coog
+back/cron
+back/celery
